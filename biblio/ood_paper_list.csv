@@ -1,12 +1,12 @@
-Bulusu, 2020, https://arxiv.org/pdf/2003.06979.pdf, "ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY",
+Bulusu, 2020, https://arxiv.org/pdf/2003.06979.pdf, "ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY"
 Meinke, 2020, https://arxiv.org/abs/1909.12180, "TOWARDS NEURAL NETWORKS THAT PROVABLY KNOWWHEN THEY DON’T KNOW"
-Serrà, 2020, https://arxiv.org/pdf/1909.11480.pdfn "Input complexity and out-of-distribution detection with likelihood-based generative models"
+Serrà, 2020, https://arxiv.org/pdf/1909.11480.pdf, "Input complexity and out-of-distribution detection with likelihood-based generative models"
 Hendrycks, 2020, https://arxiv.org/pdf/1912.02781.pdf, "AUGMIX:  A SIMPLE DATA PROCESSING METHOD  TO IMPROVE ROBUSTNESS AND UNCERTAINTY"
 Liu, 2019, http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Large-Scale_Long-Tailed_Recognition_in_an_Open_World_CVPR_2019_paper.html, "Large-Scale Long-Tailed Recognition in an Open World"
 Hendrycks, 2019, http://papers.nips.cc/paper/9697-using-self-supervised-learning-can-improve-model-robustness-and-uncertainty, "Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty"
 Song, 2019, https://arxiv.org/pdf/1910.09115.pdf, "Unsupervised Out-of-Distribution Detection with Batch Normalization"
 Tagasovska, 2019, http://papers.nips.cc/paper/8870-single-model-uncertainties-for-deep-learning, "Single-Model Uncertainties for Deep Learning"
-Hein, 2019, http://openaccess.thecvf.com/content_CVPR_2019/html/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.html, "Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem",
+Hein, 2019, http://openaccess.thecvf.com/content_CVPR_2019/html/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.html, "Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem"
 Ahuja, 2019, https://arxiv.org/pdf/1909.11786.pdf, "Probabilistic Modeling of Deep Features for Out-of-Distribution and Adversarial Detection"
 Hendrycks, 2019, https://arxiv.org/pdf/1901.09960.pdf, "Using Pre-Training Can Improve Model Robustness and Uncertainty"
 Ren, 2019, https://arxiv.org/pdf/1906.02845.pdf, "Likelihood Ratios for Out-of-Distribution Detection"
